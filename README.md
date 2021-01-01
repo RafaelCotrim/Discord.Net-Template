@@ -24,5 +24,7 @@ You also could use [other techniques](https://docs.microsoft.com/en-us/aspnet/co
 ## Other information
 
 For more information on how to make a discord bot using Discord.net, check out the [documentation](https://docs.stillu.cc/guides/introduction/intro.html).
+
 For more information on how to use Entity Framework, check out the [documentation](https://docs.microsoft.com/en-us/ef/core/).
+
 This template is based on the [sample files](https://github.com/discord-net/Discord.Net/tree/dev/samples) accessible in the Discord.net repository.
